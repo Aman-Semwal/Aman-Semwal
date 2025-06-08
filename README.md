@@ -5,25 +5,25 @@
 
 
 <p align="center">
-🎓 B.Tech CSE Student at MMDU, Ambala | 💻 Frontend Developer | 📊 Data Analytics Enthusiast  
+🎓 B.Tech CSE Student at MMDU, Ambala | Skilled in 📊 Data Analytics | Frontend Development (HTML, CSS, JavaScript, Django)
 </p>
 
 ---
 
 ## 💡 About Me
 
-Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy building responsive websites, exploring data, and solving real-world problems with code.
+Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy exploring insights through Data Analytics and building interactive UIs with Frontend Web Development and solving real-world problems with code.
 
-Currently focused on improving my skills in **Machine Learning**, **Data Visualization**, and full-stack web development.
+Currently focused on improving my skills in **NLP**, **Machine Learning** and **Data Visualization**.
 
 ---
 
 ## 🚀 What I Do
 
-- 🧠 Currently learning: **NLP**, **Machine Learning**, **Data Science**
-- 🌐 Building frontend projects with **HTML, CSS, JavaScript**
-- 📊 Analyzing data using **Python, Pandas, Power BI, and SQL**
-- 💼 Working towards becoming a **Software Developer** and **Data Scientist**
+- 🧠 Currently learning: **Data Science** - **NLP, Machine Learning**.
+- 🌐 Building frontend projects with **HTML, CSS, JavaScript , Django**.
+- 📊 Analyzing data using **Python, Pandas, Power BI, and SQL**.
+- 💼 On a journey to gain expertise as a Software Developer and a Data Scientist, blending logical thinking with data-driven insights.
 
 ---
 
@@ -49,11 +49,11 @@ Currently focused on improving my skills in **Machine Learning**, **Data Visuali
 
 ## 📫 Contact Me
 
-Feel free to reach out for collaboration, networking, or project ideas:
+**Feel free to reach out for collaboration, networking, or project ideas:**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amansemwal_613/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
