@@ -6,14 +6,14 @@
 
 
 <p align="center">
-🎓 B.Tech CSE Student at MMDU, Ambala | Skilled in 📊 Data Analytics | Frontend Development (HTML, CSS, JavaScript, Django)
+🎓 B.Tech CSE Student at MMDU, Ambala | Skilled in Web Development (using Django) | 📊 Data Analytics & Visualization
 </p>
 
 ---
 
 ## 💡 About Me
 
-Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy exploring insights through Data Analytics and building interactive UIs with Frontend Web Development and solving real-world problems with code.
+Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy exploring insights through Data Analytics and building interactive websites  and solving real-world problems with code.
 
 Currently focused on improving my skills in **NLP**, **Machine Learning** and **Data Visualization**.
 
