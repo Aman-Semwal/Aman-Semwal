@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ## Hello, I'm Aman Semwal
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Aman Semwal
 Welcome to my GitHub profile! I'm 🎓 Currently pursuing B.Tech in Computer Science & Engineering from MMDU, Ambala (India). My interests include **frontend development**, **data analytics**, and building meaningful tech projects that solve real-world problems.
 
 ## 💡 What I Do
@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm 🎓 Currently pursuing B.Tech in Computer Sci
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ![Contact](https://img.shields.io/badge/-Contact-25D366?style=flat-square&logo=minutemailer&logoColor=white)
+## Contact
 Feel free to contact me here : 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amnsemwal613@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-semwal-780a67247/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-semwal-780a67247/))
 
