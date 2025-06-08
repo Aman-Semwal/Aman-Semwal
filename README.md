@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm 🎓 Currently pursuing B.Tech in Computer Sci
 ## Contact
 Feel free to contact me here : 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amnsemwal613@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-semwal-780a67247/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aman-semwal-780a67247/)
 
