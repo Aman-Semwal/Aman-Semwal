@@ -1,5 +1,13 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Aman Semwal
-Welcome to my GitHub profile! I'm 🎓 Currently pursuing B.Tech in Computer Science & Engineering from MMDU, Ambala (India). My interests include **frontend development**, **data analytics**, and building meaningful tech projects that solve real-world problems.
+<pre> ```markdown ```     _                                _                                _         
+   / \   ___ ___ ___  ___ ___  _ __ | |_ ___  _ __  _   _ _ __   __ _| |_ ___   
+  / _ \ / __/ __/ _ \/ __/ _ \| '_ \| __/ _ \| '_ \| | | | '_ \ / _` | __/ _ \  
+ / ___ \ (_| (_|  __/ (_| (_) | | | | || (_) | | | | |_| | | | | (_| | || (_) | 
+/_/   \_\___\___\___|\___\___/|_| |_|\__\___/|_| |_|\__,_|_| |_|\__,_|\__\___/  
+                                                                                
+                 Aman Semwal here ! Welcome to my GitHub                        
+ ``` ``` </pre>
+
+I'm 🎓 Currently pursuing B.Tech in Computer Science & Engineering from MMDU, Ambala (India). My interests include **frontend development**, **data analytics**, and building meaningful tech projects that solve real-world problems.
 
 ## 💡 What I Do
 - 👨‍💻 Currently learning: NLP, Machine Learning.
