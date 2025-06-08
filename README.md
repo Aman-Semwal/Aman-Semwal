@@ -1,52 +1,58 @@
-<!-- Typing animation banner -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=2500&pause=1200&color=00FF99&width=600&lines=Aman+Semwal+here!+%7C;Welcome+to+my+GitHub!+%7C;Frontend+Dev+%7C+Python+Learner+%7C+Data+Scientist+%7C" alt="Typing SVG" />
+<h1 align="center">👋 Hello, I'm Aman Semwal</h1>
+
+<p align="center">
+🎓 B.Tech CSE Student at MMDU, Ambala | 💻 Frontend Developer | 📊 Data Analytics Enthusiast  
 </p>
 
-## 🤖 Hello, Data Seeker!
+---
 
-📊 From frontend designs to data pipelines,
-I’m building the future—one algorithm at a time.
+## 💡 About Me
 
-## Welcome to my GitHub, I’m Aman Semwal.
+Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy building responsive websites, exploring data, and solving real-world problems with code.
 
+Currently focused on improving my skills in **Machine Learning**, **Data Visualization**, and full-stack web development.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 What I Do
 
-Hi! I'm **Aman Semwal**, a passionate developer from Haryana, India.  
-🎓 B.Tech CSE Student | 👨‍💻 Frontend Developer | 📊 Future Data Scientist  
-
-- 🔭 I’m currently working on projects involving **Data Analytics** and **Web Development**
-- 🌱 Learning: `Python`, `Pandas`, `NumPy`, `Machine Learning`, `Django`
-- 💡 Interests: `Open Source`, `Hackathons`, `Visualization`, `Web Apps`
+- 🧠 Currently learning: **NLP**, **Machine Learning**, **Data Science**
+- 🌐 Building frontend projects with **HTML, CSS, JavaScript**
+- 📊 Analyzing data using **Python, Pandas, Power BI, and SQL**
+- 💼 Working towards becoming a **Software Developer** and **Data Scientist**
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+Feel free to reach out for collaboration, networking, or project ideas:
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
 
-### 👋 Thanks for Visiting!
+⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and leave a star if you like my work.*
 
-![Wave](https://emojipedia-us.s3.amazonaws.com/source/skype/289/waving-hand_1f44b.png)
