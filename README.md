@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello, I'm Aman Semwal</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Initializing+Software+Developer+Mode...;Loading+Data+Scientist+Protocols..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code...;Turning+Data+Into+Insights..." alt="Typing SVG" />
 </p>
 
 
