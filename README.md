@@ -1,7 +1,15 @@
 <!-- Typing animation banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&width=600&lines=Aman+Semwal+here!;Welcome+to+my+GitHub!;Frontend+Dev+%7C+Python+Learner+%7C+Aspiring+Data+Scientist" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=2500&pause=1200&color=00FF99&width=600&lines=Aman+Semwal+here!+%7C;Welcome+to+my+GitHub!+%7C;Frontend+Dev+%7C+Python+Learner+%7C+Data+Scientist+%7C" alt="Typing SVG" />
 </p>
+
+## 🤖 Hello, Data Seeker!
+
+📊 From frontend designs to data pipelines,
+I’m building the future—one algorithm at a time.
+
+## Welcome to my GitHub, I’m Aman Semwal.
+
 
 ---
 
