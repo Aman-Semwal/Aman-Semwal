@@ -33,11 +33,13 @@ Currently focused on improving my skills in **NLP**, **Machine Learning** and **
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -55,7 +57,7 @@ Currently focused on improving my skills in **NLP**, **Machine Learning** and **
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amansemwal_613/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AmanC0des)
 
 ---
 
