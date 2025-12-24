@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Aman Semwal</h1>
+<h1 align="center">👋 Hello, I'm Aman</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code...;Turning+Data+Into+Insights..." alt="Typing SVG" />
@@ -54,7 +54,7 @@ Currently focused on improving my skills in **NLP**, **Machine Learning** and **
 **Feel free to reach out for collaboration, networking, or project ideas:**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amnsemwal613@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aman-semwal-780a67247/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aman-780a67247/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amansemwal09/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AmanC0des)
 
