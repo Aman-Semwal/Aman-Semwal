@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Aman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code...;Turning+Data+Into+Insights..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer...;Building+Real-World+Solutions..." alt="Typing SVG" />
 </p>
 
 
@@ -15,13 +15,13 @@
 
 Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy exploring insights through Data Analytics and building interactive websites  and solving real-world problems with code.
 
-Currently focused on improving my skills in **NLP**, **Machine Learning** and **Data Visualization**.
+Currently focused on improving my skills in **Web Development**, **Machine Learning** and **AI**.
 
 ---
 
 ## 🚀 What I Do
 
-- 🧠 Currently learning: **Data Science** - **NLP, Machine Learning**.
+- 🧠 Currently learning: **Advanced Concepts in Web Dev**, **AI and Machine Learning**.
 - 🌐 Building frontend projects with **HTML, CSS, JavaScript , Django**.
 - 📊 Analyzing data using **Python, Pandas, Power BI, and SQL**.
 - 💼 On a journey to gain expertise as a Software Developer and a Data Scientist, blending logical thinking with data-driven insights.
