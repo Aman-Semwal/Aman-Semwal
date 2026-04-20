@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Aman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer...;Building+Real-World+Solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Optimizing+Algorithms...;Building+Real-World+Solutions..." alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-🎓 B.Tech CSE Student at MMDU, Ambala | Skilled in Web Development (using Django) | 📊 Data Analytics & Visualization
+🎓 B.Tech CSE Student at MMDU, Ambala | Data Science Enthusiast | Data Analytics & Visualization | Skilled in Web Development
 </p>
 
 ---
