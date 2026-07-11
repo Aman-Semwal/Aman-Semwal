@@ -6,7 +6,7 @@
 
 
 <p align="center">
-🎓 B.Tech CSE Student at MMDU, Ambala | Data Science Enthusiast | Data Analytics & Visualization | Skilled in Web Development
+🎓 B.Tech CSE Student at MMDU, Ambala | Web Development | Python | Machine Learning | Data Science
 </p>
 
 ---
