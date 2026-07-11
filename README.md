@@ -11,7 +11,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 Welcome to my GitHub profile! I'm a dedicated and curious Computer Science & Engineering student from **MMDU, Ambala (India)**. I enjoy exploring insights through Data Analytics and building interactive websites  and solving real-world problems with code.
 
@@ -19,7 +19,7 @@ Currently focused on improving my skills in **Web Development**, **Machine Learn
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - 🧠 Currently learning: **Advanced Concepts in Web Dev**, **AI and Machine Learning**.
 - 🌐 Building frontend projects with **HTML, CSS, JavaScript , Django**.
@@ -28,7 +28,7 @@ Currently focused on improving my skills in **Web Development**, **Machine Learn
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -49,7 +49,7 @@ Currently focused on improving my skills in **Web Development**, **Machine Learn
 </p>
 
 
-## 📫 Contact Me
+## Contact Me
 
 **Feel free to reach out for collaboration, networking, or project ideas:**
 
