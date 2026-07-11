@@ -22,8 +22,8 @@ Currently focused on improving my skills in **Web Development**, **Machine Learn
 ## What I Do
 
 - 🧠 Currently learning: **Advanced Concepts in Web Dev**, **AI and Machine Learning**.
-- 🌐 Building frontend projects with **HTML, CSS, JavaScript , Django**.
-- 📊 Analyzing data using **Python, Pandas, Power BI, and SQL**.
+- 🌐 Building real-world projects using technologies such as **JavaScript, React, Django, FastAPI, MySQL ** .
+- 📊 Analyzing data using **Python, Pandas, Power BI, and SQL** upto advance Data Science algorithms  .
 - 💼 On a journey to gain expertise as a Software Developer and a Data Scientist, blending logical thinking with data-driven insights.
 
 ---
